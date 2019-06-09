@@ -1,0 +1,6 @@
+my:
+  message: from DEV MSG
+  code: from DEV CODE
+  mode: from DEV MODE
+spring:
+  profile: dev

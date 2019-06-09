@@ -1,0 +1,6 @@
+my:
+  message: from QA MSG
+  code: from QA CODE
+  mode: from QA MODE
+spring:
+  profile: qa

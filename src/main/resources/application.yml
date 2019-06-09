@@ -1,0 +1,8 @@
+my:
+  message: from DEFAULT MSG
+  code: from DEFAULT CODE
+  mode: from DEFAULT MODE
+spring:
+  profiles:
+    active:
+    - dev
